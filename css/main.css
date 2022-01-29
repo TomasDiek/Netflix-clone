@@ -344,6 +344,9 @@ img {
     padding: 1.2rem 1.6rem;
     text-transform: uppercase;
   }
+  .showcase-content {
+    margin-top: 3rem;
+  }
 }
 @media (max-height: 600px) {
   .showcase-content {
